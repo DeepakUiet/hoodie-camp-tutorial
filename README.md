@@ -12,7 +12,7 @@ to learn all the basics about `hoodie.store` and `hoodie.account`.
 - npm v3+. npm comes with node, check with `npm -v`, install latest: `npm install -g npm`
 
 ## Installation & start
-
+###
 ```
 git clone https://github.com/hoodiehq/hoodie-camp-tutorial.git
 cd hoodie-camp-tutorial
