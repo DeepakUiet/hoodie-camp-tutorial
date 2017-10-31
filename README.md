@@ -3,7 +3,7 @@
 > Hoodie Store & Account Tutorial for latest Hoodie Camp release
 
 This is an app with instructions that you can follow
-to learn all the basics about `hoodie.store` and `hoodie.account`.
+to learn all the basics about `hoodie.store` and `hoodie.account`.//commnt
 
 ## Requirements
 
